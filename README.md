@@ -1,26 +1,12 @@
 # README
 
-Author: sparenberg@openenv.de
+MAINTAINER: sparenberg@openenv.de
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A iframe navigration bar based on rails.
 
-Things you may want to cover:
+The default links are:
+1. Jenkins forward to @server_url port 8080
+2. SCM-Manager forward to @server_url port 8080
+3. Nexus linked forward to @server_url port 8080
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The global server_url var is defined in the pages controller.
