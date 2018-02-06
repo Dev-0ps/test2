@@ -1,4 +1,5 @@
 # README
+[![Build Status](https://travis-ci.org/mspbgx/rails-base.svg?branch=master)](https://travis-ci.org/mspbgx/rails-base)
 
 MAINTAINER: sparenberg@openenv.de
 
